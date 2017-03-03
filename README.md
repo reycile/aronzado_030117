@@ -9,7 +9,7 @@ https://github.com/username/repository.git foldername
 * Create new github repo
 * $ git add .
 * $ git commit -m "any message"
-* $ git remote add Teodoro_030117 https://github.com/username/foldername.git
+* $ git remote add foldername https://github.com/username/foldername.git
 * $ push -u folder name master
 * $ heroku login
 * $ heroku create folder name
