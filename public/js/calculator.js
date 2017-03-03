@@ -1,5 +1,5 @@
 function changename(){
-document.getElementById('one').innerHTML = "CARLO TEODORO!!!";
+document.getElementById('one').innerHTML = "Reycile";
 }
 
 function Addme(){
